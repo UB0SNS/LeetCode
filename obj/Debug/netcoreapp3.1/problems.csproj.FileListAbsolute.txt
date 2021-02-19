@@ -1,0 +1,13 @@
+C:\Users\sts\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\problems.exe
+C:\Users\sts\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\problems.deps.json
+C:\Users\sts\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\problems.runtimeconfig.json
+C:\Users\sts\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\problems.runtimeconfig.dev.json
+C:\Users\sts\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\problems.dll
+C:\Users\sts\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\problems.pdb
+C:\Users\sts\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\problems.csprojAssemblyReference.cache
+C:\Users\sts\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\problems.AssemblyInfoInputs.cache
+C:\Users\sts\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\problems.AssemblyInfo.cs
+C:\Users\sts\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\problems.csproj.CoreCompileInputs.cache
+C:\Users\sts\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\problems.dll
+C:\Users\sts\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\problems.pdb
+C:\Users\sts\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\problems.genruntimeconfig.cache
